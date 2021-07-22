@@ -23,7 +23,7 @@
     "vue-cookies": "^1.5.13",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.0.7",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
